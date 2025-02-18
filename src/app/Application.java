@@ -24,7 +24,6 @@ public class Application {
 
         // Mais par quel miracle ce chien-là s'affichera-t-il ?
         System.out.println(chien3);                 
-    
     }
-
+    
 }
