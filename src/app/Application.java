@@ -15,7 +15,7 @@ public class Application {
         //////////////////////////////////////////////////////////////////////////////////
         // Affichage de chaque chien
         //////////////////////////////////////////////////////////////////////////////////
-
+        
         // On affiche directement les infos du chien1 en lui posant directement les questions
         System.out.println("Je m'appelle " + chien1.getNom() + " et j'ai " + chien1.getAge() + " années.");        
 
@@ -24,7 +24,6 @@ public class Application {
 
         // Mais par quel miracle ce chien-là s'affichera-t-il ?
         System.out.println(chien3);                 
-    
     }
-
+    
 }
