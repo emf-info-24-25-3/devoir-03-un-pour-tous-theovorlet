@@ -11,11 +11,10 @@ Lisez `avec attention` et faites les points suivants avec précision, dans l'ord
 ## QUESTIONS :
 Veuillez répondre aux questions ci-dessous dans le fichier [REPONSES.md](REPONSES.md) :
 1. Peut-on modifier l'âge d'un chien une fois qu'il a été créé (essayez de donner 10 ans à chien3 pour vérifier) ? 
-non il n'y a pas de setteur
+non il n'y a pas de setteur 
 2. Que se passe-t-il si on modifie le nom de chien2 ?
-il aime pas y a tout qui casse 
+tout les chiens on le même nom 
 3. Pourquoi tous les chiens ont tous le même nom ?
-parce que c'est du static
+parce que c'est du static sur le nom 
 4. Observez avec attention les lignes N°20 à N°26 du main() et réfléchissez : par quel miracle le chien3 à la ligne N°26 s'affiche correctement ?
-on ne modifie pas l'objet juste on l'appelle simplement et on ne le modifie pas avant
-
+c'est parce que par défaut quand on utilise un sout ça va afficher 
